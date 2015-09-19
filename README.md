@@ -1,2 +1,0 @@
-# uiautomator
-UIAutomatorSourceCode
